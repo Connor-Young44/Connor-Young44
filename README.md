@@ -1,4 +1,9 @@
-### Hi there 👋
+<h1>Hi there 👋</h1>
+
+### A quick introduction to me!
+
+### My name is Connor
+And I am currently a student of the Codaisseur accademy
 
 <!--
 **TheCrazedLime/TheCrazedLime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
