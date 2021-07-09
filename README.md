@@ -26,6 +26,8 @@
 [Bar Buddy Client Side Repo](https://github.com/TheCrazedLime/Bar-Buddy-client)
 
 [Bar Buddy Backend Repo](https://github.com/TheCrazedLime/Bar-Buddy-server)
+
+[Bar Buddy site](https://bar-buddy.netlify.app/)
 <!--
 **TheCrazedLime/TheCrazedLime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
