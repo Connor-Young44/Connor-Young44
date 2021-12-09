@@ -2,8 +2,7 @@
 
 ### Welcome to my GitHub profile!
 
-<h3>And I am currently a student of the Codaisseur accademy</h3>
-<p>I joined the academy in April 2021 where I found my passion for web development and learned all the skills listed below plus others!  </p>
+
 <a href="https://www.linkedin.com/in/connor-young-24b309183/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 
 **Tech Tools**<br>
